@@ -54,17 +54,21 @@ Alternatively, each of the 5 applications can be executed from their main classe
 Class: `faifai.image.SimpleImageProcessor`
 * Provide loading of sample images or custom image files
 * Support image processing operations such as warm, chill, roughen, rotation, posterize, greyscale
+<img width="1129" alt="Screenshot 2022-10-31 at 2 32 25 AM" src="https://user-images.githubusercontent.com/8808539/198896146-cf122989-18b9-43d1-9a82-595f31ad4183.png">
 
 ### Rotation and Hole Demo 
 Class: `faifai.image.RotationHoleDemo`
 * Demo the difference between forward mapping and backward mapping.
 * Show the __hole__ effect
 * Demo supersampling methods
+<img width="800" alt="Screenshot 2022-10-31 at 2 29 34 AM" src="https://user-images.githubusercontent.com/8808539/198896155-0f045721-6345-45d9-b920-d6d144e8b889.png">
 
 ### Aliasing and Low Pass Demo 
 Class: `faifai.image.LowPassDemo`
 * Demo the removal of high frequency signal from images with a low-pass filter.
+<img width="520" alt="Screenshot 2022-10-31 at 2 29 52 AM" src="https://user-images.githubusercontent.com/8808539/198896151-d4954932-c241-4d78-a7d7-7c931ad4a324.png">
 
 ### JPEG File Quality Demo 
 Class: `faifai.image.JPEGFileQualityDemo`
 * Demo the file size reduction and the quality of JPEG images.
+<img width="800" alt="Screenshot 2022-10-31 at 2 31 27 AM" src="https://user-images.githubusercontent.com/8808539/198896130-91ec562a-9c64-44ce-adc4-343b515ad70a.png">
