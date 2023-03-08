@@ -1,8 +1,8 @@
-.form
-.java
+#.form
+#.java
 
 # VSCode
-/src/
+#/src/
 /lib/
 /.vscode/
 
